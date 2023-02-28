@@ -1,0 +1,12 @@
+kodlama/io/rentacar/dataAccess/abtracts/BrandRepository.class
+kodlama/io/rentacar/business/requests/CreateBrandRequest.class
+kodlama/io/rentacar/business/responses/GetAllBrandsResponse.class
+kodlama/io/rentacar/business/responses/GetByIdBrandResponse.class
+kodlama/io/rentacar/business/requests/UpdateBrandRequest.class
+kodlama/io/rentacar/business/abstracts/BrandService.class
+kodlama/io/rentacar/core/utilities/mappers/ModelMapperManager.class
+kodlama/io/rentacar/core/utilities/mappers/ModelMapperService.class
+kodlama/io/rentacar/entities/concretes/Brand.class
+kodlama/io/rentacar/webApi/controllers/BrandsController.class
+kodlama/io/rentacar/RentACarApplication.class
+kodlama/io/rentacar/business/concretes/BrandManager.class

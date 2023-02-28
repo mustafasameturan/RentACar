@@ -1,0 +1,12 @@
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/entities/concretes/Brand.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/business/concretes/BrandManager.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/business/requests/CreateBrandRequest.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/RentACarApplication.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/core/utilities/mappers/ModelMapperManager.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/business/requests/UpdateBrandRequest.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/business/abstracts/BrandService.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/business/responses/GetByIdBrandResponse.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/business/responses/GetAllBrandsResponse.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/dataAccess/abtracts/BrandRepository.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/core/utilities/mappers/ModelMapperService.java
+/Users/mustafasameturan/Documents/Java/java-rentACar/src/main/java/kodlama/io/rentacar/webApi/controllers/BrandsController.java
